@@ -1,4 +1,37 @@
-# JS-Nantes-P2-Spotywild
+# JS-Nantes-P2-WeatherForcast
+Projet collaboratif mobile first -> site web d'informations météorologiques qui fournit des conseils vestimentaires personnalisés en fonction du temps.
+
+#### Stack: 
+
+REACT/TYPESCRIPT/HTML/CSS/JS
+
+#### La team: 
+
+Cyrus Weir https://github.com/CyrusWeir
+         
+Thibaut Prunet https://github.com/Largoet
+         
+Julien Botard https://github.com/Julien-44100
+         
+Emilie De Duyver https://github.com/EmiLy-Ly-san
+
+## Aperçu
+ 
+![mobile-homepage](https://github.com/user-attachments/assets/1def9d82-91ae-4a6c-84a4-c400bfcd6b67) ![mobile-menu](https://github.com/user-attachments/assets/bee6630c-71ad-4cb7-97be-94b7e0b44e3b) ![mobile-fav](https://github.com/user-attachments/assets/2fb5e013-0061-48cf-8e78-4ebe4dbea51c) ![mobile-preferencies](https://github.com/user-attachments/assets/5f88ece8-30b3-4743-a80a-e795c0a25c37) ![mobile-dayByDay](https://github.com/user-attachments/assets/effa2175-3789-4535-a88b-aa99bbd22353)
+
+![desktop-homepage](https://github.com/user-attachments/assets/c178f1e1-994d-43b6-8533-6f1020b43d4b)
+![desktop-clear](https://github.com/user-attachments/assets/b62bd304-538c-497d-90e9-c372805e668d)
+![desktop-mist](https://github.com/user-attachments/assets/a4d2831f-6ba4-45c5-b2ac-9bd7c7a257d4)
+![dektop-rain](https://github.com/user-attachments/assets/879eed21-ad0b-4b0d-a3c0-15569ed01ad2)
+![desktop-snom](https://github.com/user-attachments/assets/3e0611b8-b24a-4eb6-807f-924ab1d39e62)
+
+
+
+
+
+
+
+# JS-Nantes-P2
 
 Ce projet est un monorepo JS, suivant l'architecture React-Express-MySQL telle qu'enseignée à la Wild Code School (v7.1.7) :
 
