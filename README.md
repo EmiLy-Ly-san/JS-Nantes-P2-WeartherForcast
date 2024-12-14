@@ -1,5 +1,5 @@
 # JS-Nantes-P2-WeatherForcast
-Projet collaboratif mobile first -> site web d'informations météorologiques qui fournit des conseils vestimentaires personnalisés en fonction du temps.
+Projet collaboratif mobile first -> site web d'informations météorologiques qui fournit des conseils vestimentaires personnalisés en fonction du temps à l'aide de l'API OpenWeatherMap.
 
 #### Stack: 
 
